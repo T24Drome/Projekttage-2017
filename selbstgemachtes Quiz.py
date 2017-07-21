@@ -22,4 +22,14 @@ if antwort2 == "d":
         print("ach das ist schade:(. Dann versuchs irgendwann anders nochmal.")
     if antwort == "ja":
         print("Gut dann kommen wir zur vorletzten Frage")
-        print("Frage Nr.3: 
+        print("Frage Nr.3: Wie hoch ist das höchste Gebäude?")
+        print("a: 878m, b: 1037m, c: 830 oder d: 678?")
+    antwort3 = print("a, b, c oder d")
+    if antwort3 == "c":
+        print("WoW, schon wieder richtig. Aber jetzt kommt die Finale Frage. Ich hoffe du hast dich bis jetzt noch nicht angestrengt, denn jetzte kommt die finale Frage.")
+        print("Frage Nr.4: Wann sind die World trade Center zusammen gestürtzt")
+        print("a: 2001, b: 2002, c: 2003 oder b: 2005.")
+    else:
+        print("")
+    antwort4 = print("a, b, c oder d")
+    
